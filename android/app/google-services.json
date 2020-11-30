@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1009498688082",
+    "firebase_url": "https://stayalone-prod.firebaseio.com",
+    "project_id": "stayalone-prod",
+    "storage_bucket": "stayalone-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009498688082:android:4be5cc0ffc5f9567ba6d8b",
+        "android_client_info": {
+          "package_name": "net.flymessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009498688082-4ul5nu3eb7nud3gmfuf8f3hlcvqs470c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.flymessages",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1009498688082-v7ik2sjkgusdelsclm3qd6rb6i3b679j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.flymessages",
+            "certificate_hash": "91d4be9b4c1c0da52cb1054402ec06ec9dfbf737"
+          }
+        },
+        {
+          "client_id": "1009498688082-n5gsvugfto799qt8j222291ochbqfaml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-TD1jngI_t6N_cvXlS43pWC_lMOUvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009498688082-n5gsvugfto799qt8j222291ochbqfaml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009498688082-5i7ieo7s10mpc9cgne0do9sh1kpre74q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.flymessages"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

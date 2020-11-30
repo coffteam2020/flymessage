@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlyMessages</string>
+    <string name="facebook_app_id">733845703832440</string> <string name="fb_login_protocol_scheme">fb781276105944263</string>
+</resources>
